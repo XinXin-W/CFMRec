@@ -1,0 +1,20 @@
+2023-07-26 09:18:04.547: 
+columns = UIRT
+filename = dataset/douban_book_u5_s2.rating
+sep = 	
+item_min = 0
+user_min = 0
+remap_user_id = True
+remap_item_id = True
+split_by = ratio
+train = 0.7
+valid = 0.0
+test = 0.3
+by_time = True
+2023-07-26 09:18:04.547: Data statistic:
+2023-07-26 09:18:04.547: The number of users: 5409
+2023-07-26 09:18:04.547: The number of items: 93358
+2023-07-26 09:18:04.547: The number of ratings: 393691
+2023-07-26 09:18:04.548: Average actions of users: 72.78
+2023-07-26 09:18:04.548: Average actions of items: 4.22
+2023-07-26 09:18:04.548: The sparsity of the dataset: 99.922037%

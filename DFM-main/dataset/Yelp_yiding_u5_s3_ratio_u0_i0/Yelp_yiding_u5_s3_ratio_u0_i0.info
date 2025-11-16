@@ -1,0 +1,20 @@
+2023-07-26 09:25:18.884: 
+columns = UIRT
+filename = dataset/Yelp_yiding_u5_s3.rating
+sep = ,
+item_min = 0
+user_min = 0
+remap_user_id = True
+remap_item_id = True
+split_by = ratio
+train = 0.7
+valid = 0.0
+test = 0.3
+by_time = True
+2023-07-26 09:25:18.884: Data statistic:
+2023-07-26 09:25:18.884: The number of users: 9776
+2023-07-26 09:25:18.884: The number of items: 18984
+2023-07-26 09:25:18.884: The number of ratings: 442325
+2023-07-26 09:25:18.884: Average actions of users: 45.25
+2023-07-26 09:25:18.884: Average actions of items: 23.30
+2023-07-26 09:25:18.884: The sparsity of the dataset: 99.761662%

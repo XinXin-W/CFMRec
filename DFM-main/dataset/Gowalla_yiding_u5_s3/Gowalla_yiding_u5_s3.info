@@ -1,0 +1,8 @@
+2023-05-12 20:04:42.654: Gowalla_yiding_u5_s3_ratio_u0_i10_by_time
+2023-05-12 20:04:42.654: Dataset name: Gowalla_yiding_u5_s3
+The number of users: 5297
+The number of items: 10039
+The number of ratings: 238092
+Average actions of users: 44.95
+Average actions of items: 23.72
+The sparsity of the dataset: 99.552262%
