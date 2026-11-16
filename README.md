@@ -13,7 +13,7 @@ We provide Gowalla_yiding_u5_s3(Gowalla) dataset.
 - .\dataset\Gowalla_yiding_u5_s3.rating and Gowalla_yiding_u5_s3.uu
 - Each line is a user with her/his positive interactions with items: userID \ itemID \ ratings \time.
 - Each user has more than 10 associated actions.
-# run DFM:
+# run CFMRec:
 run main.py in IDE or with command line:
 ```bash
 python main.py
