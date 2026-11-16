@@ -1,7 +1,7 @@
-# DFM
-# DFM: Efficient and Robust Socio-Sequential Recommendation via Dual Flow Matching
-This is a Tensorflow implementation for DFM.
-* Bin WU, Xinxin WU, Haokai MA, Mingliang XU, and Tat-Seng CHUA
+# CFMRec
+# CFMRec: Cascaded Flow Matching for Socially-aware Sequential Recommendation
+This is a Tensorflow implementation for CFMRec.
+* Bin WU, Xinxin WU, Haokai MA, Yinwei Wei, Mingliang XU, and Tat-Seng CHUA
 # Environment Requirement
 The code has been tested running under Python 3.7.12. The required packages are as follows:
 - tensorflow-gpu==2.10.0
